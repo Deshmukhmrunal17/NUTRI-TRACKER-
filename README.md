@@ -1,2 +1,2 @@
 # NUTRI-TRACKER-
-NutriTracker is a comprehensive nutrition management and analysis tool designed to predict undernutrition types and provide personalized recommendations for addressing nutritional deficiencies. This repository is built to assist individuals in monitoring and improving nutritional health through data-driven insights.
+NutriTracker is an intelligent system designed to detect malnutrition and provide personalized nutritional recommendations. Using machine learning algorithms and comprehensive data analysis, NutriTracker aims to improve health outcomes by identifying nutritional deficiencies and suggesting appropriate dietary adjustments.
